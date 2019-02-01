@@ -15,4 +15,8 @@ CONTROLS :
 
 ------------------------------------------------------------------------------
 
+The linux verion is updated more often.
+
+------------------------------------------------------------------------------
+
 AUTHOR: Frédéric Venier - frederic.venier@telecomnancy.net
